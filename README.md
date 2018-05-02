@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-> Used to add custom html text to the view of the application.
+
 
 ## Development
 
