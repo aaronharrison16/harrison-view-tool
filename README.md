@@ -1,6 +1,9 @@
 # HarrisonViewTool
 
 > Various view specific methods for applications I use.
+> Simple gem that generates HTML content to keep up to date information in your footers.
+> Just install the gem, fill out a few bits of information and you are set.
+> For an example visit https://www.aaronjharrison.com/ and check out the footer.
 
 ## Installation
 
